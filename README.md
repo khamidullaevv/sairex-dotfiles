@@ -1,4 +1,4 @@
-# sairex bspwm rice
+# sairex bspwm rice for arch linux
 
 A compact, opinionated bspwm "rice" configuration tailored for a dark Catppuccin-like aesthetic. This repository contains a full desktop setup: window manager, hotkeys, status bar, rofi themes, terminal configs and a fastfetch profile.
 
